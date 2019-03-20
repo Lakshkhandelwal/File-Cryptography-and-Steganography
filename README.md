@@ -26,3 +26,6 @@ For using the Application you don't require neither the python to be installed n
 5. The message will be decoded then decrypted and show in a dialog box.
 
 In this simple ways, a message can be encrypted and then encoded into any file of your choice and vice versa.
+
+# LICENSE
+This repository is licensed under the MIT License - see the LICENSE file for details.
